@@ -30,40 +30,31 @@
 
 ## ⚡ AI Coding Skills
 
-给 OpenClaw 和 Claude Code 写的技能包，安装即用：
+给 OpenClaw 和 Claude Code 写的技能包，安装即用。总计 **68 个技能**（35 OpenClaw + 33 Claude Code）。
 
-### OpenClaw Skills
-| 技能 | 功能 |
-|------|------|
-| [skill-pr-reviewer](https://github.com/PHclaw/openclaw-skill-pr-reviewer) | 自动 PR 代码审查 + LLM 评分 |
-| [skill-dockerize](https://github.com/PHclaw/openclaw-skill-dockerize) | 一键 Docker 容器化 |
-| [skill-test-gen](https://github.com/PHclaw/openclaw-skill-test-gen) | 自动生成单元测试 |
-| [skill-security-scan](https://github.com/PHclaw/openclaw-skill-security-scan) | 代码安全漏洞扫描 |
-| [skill-code-explainer](https://github.com/PHclaw/openclaw-skill-code-explainer) | 自动代码解释 + 文档生成 |
-| [skill-git-workflow](https://github.com/PHclaw/openclaw-skill-git-workflow) | 高级 Git 操作（rebase、冲突解决） |
+### 🛠️ OpenClaw Skills（35 个）
 
-### Claude Code Skills
-| 技能 | 功能 |
-|------|------|
-| [skill-commit-message](https://github.com/PHclaw/claude-code-skill-commit-message) | Conventional Commits 自动生成 |
-| [skill-error-debug](https://github.com/PHclaw/claude-code-skill-error-debug) | 堆栈跟踪分析 + 根因定位 |
-| [skill-api-test](https://github.com/PHclaw/claude-code-skill-api-test) | OpenAPI 测试用例生成 |
-| [skill-db-migration](https://github.com/PHclaw/claude-code-skill-db-migration) | 数据库迁移脚本生成 |
+**开发工具**：skill-pr-reviewer · skill-dockerize · skill-test-gen · skill-refactor · skill-api-doc · skill-git-workflow · skill-perf-check · skill-deploy-check · skill-error-debug · skill-api-test · skill-changelog · skill-gitignore-gen · skill-dep-doctor
+
+**AI + 代码**：skill-code-explainer · skill-security-scan · skill-code-translate · skill-arch-review · skill-frontend-gen
+
+**数据库**：skill-db-migration · skill-db-query-optim
+
+**CLI 工具**：skill-commit-message · skill-cli-builder · skill-ci-check · skill-complexity-audit · skill-regex-builder · skill-env-setup
+
+**自然语言 → 代码**：skill-sql-generator · skill-stock-analysis
+
+**垂直行业**：skill-contract-review · skill-course-gen · skill-resume-screen · skill-market-research · skill-medical-note · skill-ad-copy · skill-property-eval
+
+完整列表：[https://PHclaw.github.io](https://PHclaw.github.io)
+
+### 🤖 Claude Code Skills（33 个）
+
+同样 33 个技能覆盖开发工具、AI、数据库、CLI 和垂直行业，完整列表：[https://PHclaw.github.io](https://PHclaw.github.io)
 
 ---
 
 ## 📊 Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PHclaw&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHclaw&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 📬 Contact
-
-- GitHub: [https://github.com/PHclaw](https://github.com/PHclaw)
-- 主页: [https://phclaw.github.io](https://phclaw.github.io)
-
-*All projects are open source under MIT license.*
+![Stats](https://github-readme-stats.vercel.app/api?username=PHclaw&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHclaw&layout=compact&theme=github_dark)
